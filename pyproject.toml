@@ -51,4 +51,5 @@ dependencies = [
     "groq>=0.33.0",
     "xgboost>=3.1.1",
     "cloudscraper>=1.2.71",
+    "streamlit>=1.58.0",
 ]
